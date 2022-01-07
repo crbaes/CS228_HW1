@@ -1,0 +1,4 @@
+3 3
+E C R 
+C S C
+R R C 
